@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211240005125",
+    "project_id": "firstapplication-7a5e7",
+    "storage_bucket": "firstapplication-7a5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211240005125:android:1f48614f218a30c75cf66c",
+        "android_client_info": {
+          "package_name": "com.example.airesolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211240005125-c5vlev6clek9627n8s47t92hv3h47phh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlvEZgA6InIMO5JBYCqFDj4WOkDsO7A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211240005125-c5vlev6clek9627n8s47t92hv3h47phh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
